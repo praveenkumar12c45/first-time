@@ -1,2 +1,2 @@
 # first-time
-first time git using
+using git first time
